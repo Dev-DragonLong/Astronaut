@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>King Gen</title>
+<link rel="stylesheet" href="/stylesheets/particlesjs.css">
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<style>
+    h1 {
+        margin-top: 50px;
+        font-size: 100px;
+        text-align: center;
+        color: white;
+    }
+    h2 {
+        margin-top: 50px;
+        font-size: 50px;
+        text-align: center;
+        color: white;
+    }
 
-You can use the [editor on GitHub](https://github.com/Dev-DragonLong/Astronaut/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dev-DragonLong/Astronaut/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</style>
+<body>
+<div class="container">
+<div class="container" style="text-align: center; margin-top: 15%">
+<h1>404</h1>
+<h2>Not Found</h2>
+</div>
+</div>
+<div id="particles-js"></div> <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js" type="c245768349ac24f30db0a6a6-text/javascript"></script>
+<script src="/javascripts/particlesjs.js" type="c245768349ac24f30db0a6a6-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="c245768349ac24f30db0a6a6-|49" defer=""></script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'6819317a5ac15301',m:'0e6f1de09e9601e10e54c1465227f6d172b4e5b8-1629437044-1800-AQ8UtfSwjBQxfqJlFAPv+rMI0ZXHjULp3QR+PLvTu91kA+q9zHNLtvI0tvE/g+/anbjwSdgLGtT4qXfG0Gc6gMsQJd+hqY9M6zpTtC4bU6YvBBUHLxaHXKFQ36YHsDiOMYq+O/j8xa1FvMSK9P2p43g=',s:[0xdef49d20de,0x2864239af5],}})();</script></body>
+</html>
